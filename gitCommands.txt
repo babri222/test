@@ -3,3 +3,6 @@
 3)git add (to add a single file to git)
 4)git add . (to add all files to git)
 5)git commit -m "label" (to make the package of all files)
+6)make repository online on github.com
+7)git remote add origin [link of repository]
+8)git push origin master
